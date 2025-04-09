@@ -1,47 +1,47 @@
-2025-04-08 18:30:41.009305 - Received SBGOLOB.CBT509.FILE1000 from FILE1000.XMI 
-2025-04-08 18:30:41.024383 - Found $$$#DATE.txt (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/$$$#DATE
-2025-04-08 18:30:41.024931 - Found $README.txt (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/$README
-2025-04-08 18:30:41.025584 - Found $RECV.rexx (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/$RECV
-2025-04-08 18:30:41.026156 - Found #GNULIC.txt (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/#GNULIC
-2025-04-08 18:30:41.026741 - Found @FIL1000.txt (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/@FIL1000
-2025-04-08 18:30:41.027504 - Found EXEC.xmi (application/xmit) in SBGOLOB.CBT509.FILE1000, moved to PDS/EXEC.xmi
-2025-04-08 18:30:41.170421 - Received DAND.MASSCHG.EXEC from EXEC.xmi 
-2025-04-08 18:30:41.172212 - Found $$GNULIC.txt (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$$GNULIC
-2025-04-08 18:30:41.172851 - Found $CHGIT.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$CHGIT
-2025-04-08 18:30:41.173475 - Found $FNDIT.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$FNDIT
-2025-04-08 18:30:41.174074 - Found $LOGIT.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$LOGIT
-2025-04-08 18:30:41.174701 - Found $NOTFND.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$NOTFND
-2025-04-08 18:30:41.175192 - Found $SETVVMM.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$SETVVMM
-2025-04-08 18:30:41.175767 - Found @MASSCHG.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/@MASSCHG
-2025-04-08 18:30:41.176314 - Found MASSCHG.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/MASSCHG
-2025-04-08 18:30:41.176851 - Found MASSEXIT.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/MASSEXIT
-2025-04-08 18:30:41.177881 - Found MSGS.xmi (application/xmit) in SBGOLOB.CBT509.FILE1000, moved to PDS/MSGS.xmi
-2025-04-08 18:30:41.205694 - Received DAND.MASSCHG.MSGS from MSGS.xmi 
-2025-04-08 18:30:41.206904 - Found MASSC10.txt (text/plain) in DAND.MASSCHG.MSGS, moved to MSGS/MASSC10
-2025-04-08 18:30:41.207571 - Found MASSC11.txt (text/plain) in DAND.MASSCHG.MSGS, moved to MSGS/MASSC11
-2025-04-08 18:30:41.208106 - Found MASSC12.txt (text/plain) in DAND.MASSCHG.MSGS, moved to MSGS/MASSC12
-2025-04-08 18:30:41.209024 - Found PANELS.xmi (application/xmit) in SBGOLOB.CBT509.FILE1000, moved to PDS/PANELS.xmi
-2025-04-08 18:30:41.255047 - Received DAND.MASSCHG.PANELS from PANELS.xmi 
-2025-04-08 18:30:41.256881 - Found MASSCT00.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT00
-2025-04-08 18:30:41.257435 - Found MASSCT10.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT10
-2025-04-08 18:30:41.258006 - Found MASSCT11.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT11
-2025-04-08 18:30:41.258580 - Found MASSCT12.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT12
-2025-04-08 18:30:41.259147 - Found MASSCT13.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT13
-2025-04-08 18:30:41.259724 - Found MASSCT15.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT15
-2025-04-08 18:30:41.260211 - Found MASSCT20.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT20
-2025-04-08 18:30:41.260808 - Found MASSCT21.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT21
-2025-04-08 18:30:41.261359 - Found MASSCT22.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT22
-2025-04-08 18:30:41.261959 - Found MASSCT23.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT23
-2025-04-08 18:30:41.262506 - Found MASSCT24.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT24
-2025-04-08 18:30:41.263411 - Found MASSCT25.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT25
-2025-04-08 18:30:41.264041 - Found MASSCT26.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT26
-2025-04-08 18:30:41.264599 - Found MASSCT30.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT30
-2025-04-08 18:30:41.265122 - Found MASSC001.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC001
-2025-04-08 18:30:41.265609 - Found MASSC002.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC002
-2025-04-08 18:30:41.266226 - Found MASSC003.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC003
-2025-04-08 18:30:41.266785 - Found MASSC004.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC004
-2025-04-08 18:30:41.267336 - Found MASSC005.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC005
-2025-04-08 18:30:41.268470 - Found SKELS.xmi (application/xmit) in SBGOLOB.CBT509.FILE1000, moved to PDS/SKELS.xmi
-2025-04-08 18:30:41.296643 - Received DAND.MASSCHG.SKELS from SKELS.xmi 
-2025-04-08 18:30:41.297782 - Found MASSBAT1.rexx (text/plain) in DAND.MASSCHG.SKELS, moved to SKELS/MASSBAT1
-2025-04-08 18:30:41.298347 - Found MASSKEL.txt (text/plain) in DAND.MASSCHG.SKELS, moved to SKELS/MASSKEL
+2025-04-08 23:01:01.762030 - Received SBGOLOB.CBT509.FILE1000 from FILE1000.XMI 
+2025-04-08 23:01:01.763802 - Found $$$#DATE.txt (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/$$$#DATE
+2025-04-08 23:01:01.764414 - Found $README.txt (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/$README
+2025-04-08 23:01:01.765053 - Found $RECV.rexx (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/$RECV
+2025-04-08 23:01:01.765697 - Found #GNULIC.txt (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/#GNULIC
+2025-04-08 23:01:01.766275 - Found @FIL1000.txt (text/plain) in SBGOLOB.CBT509.FILE1000, moved to PDS/@FIL1000
+2025-04-08 23:01:01.767050 - Found EXEC.xmi (application/xmit) in SBGOLOB.CBT509.FILE1000, moved to PDS/EXEC.xmi
+2025-04-08 23:01:01.911693 - Received DAND.MASSCHG.EXEC from EXEC.xmi 
+2025-04-08 23:01:01.913239 - Found $$GNULIC.txt (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$$GNULIC
+2025-04-08 23:01:01.913925 - Found $CHGIT.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$CHGIT
+2025-04-08 23:01:01.914507 - Found $FNDIT.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$FNDIT
+2025-04-08 23:01:01.915130 - Found $LOGIT.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$LOGIT
+2025-04-08 23:01:01.915729 - Found $NOTFND.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$NOTFND
+2025-04-08 23:01:01.916324 - Found $SETVVMM.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/$SETVVMM
+2025-04-08 23:01:01.916952 - Found @MASSCHG.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/@MASSCHG
+2025-04-08 23:01:01.917526 - Found MASSCHG.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/MASSCHG
+2025-04-08 23:01:01.918134 - Found MASSEXIT.rexx (text/plain) in DAND.MASSCHG.EXEC, moved to EXEC/MASSEXIT
+2025-04-08 23:01:01.919197 - Found MSGS.xmi (application/xmit) in SBGOLOB.CBT509.FILE1000, moved to PDS/MSGS.xmi
+2025-04-08 23:01:01.947737 - Received DAND.MASSCHG.MSGS from MSGS.xmi 
+2025-04-08 23:01:01.948928 - Found MASSC10.txt (text/plain) in DAND.MASSCHG.MSGS, moved to MSGS/MASSC10
+2025-04-08 23:01:01.949514 - Found MASSC11.txt (text/plain) in DAND.MASSCHG.MSGS, moved to MSGS/MASSC11
+2025-04-08 23:01:01.950089 - Found MASSC12.txt (text/plain) in DAND.MASSCHG.MSGS, moved to MSGS/MASSC12
+2025-04-08 23:01:01.951054 - Found PANELS.xmi (application/xmit) in SBGOLOB.CBT509.FILE1000, moved to PDS/PANELS.xmi
+2025-04-08 23:01:01.998304 - Received DAND.MASSCHG.PANELS from PANELS.xmi 
+2025-04-08 23:01:02.000296 - Found MASSCT00.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT00
+2025-04-08 23:01:02.000938 - Found MASSCT10.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT10
+2025-04-08 23:01:02.001582 - Found MASSCT11.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT11
+2025-04-08 23:01:02.002177 - Found MASSCT12.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT12
+2025-04-08 23:01:02.002777 - Found MASSCT13.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT13
+2025-04-08 23:01:02.003407 - Found MASSCT15.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT15
+2025-04-08 23:01:02.004021 - Found MASSCT20.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT20
+2025-04-08 23:01:02.004616 - Found MASSCT21.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT21
+2025-04-08 23:01:02.005227 - Found MASSCT22.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT22
+2025-04-08 23:01:02.005854 - Found MASSCT23.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT23
+2025-04-08 23:01:02.006489 - Found MASSCT24.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT24
+2025-04-08 23:01:02.007147 - Found MASSCT25.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT25
+2025-04-08 23:01:02.007701 - Found MASSCT26.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT26
+2025-04-08 23:01:02.008277 - Found MASSCT30.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSCT30
+2025-04-08 23:01:02.008879 - Found MASSC001.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC001
+2025-04-08 23:01:02.009470 - Found MASSC002.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC002
+2025-04-08 23:01:02.010086 - Found MASSC003.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC003
+2025-04-08 23:01:02.010686 - Found MASSC004.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC004
+2025-04-08 23:01:02.011283 - Found MASSC005.bin (application/octet-stream) in DAND.MASSCHG.PANELS, moved to PANELS/MASSC005
+2025-04-08 23:01:02.012366 - Found SKELS.xmi (application/xmit) in SBGOLOB.CBT509.FILE1000, moved to PDS/SKELS.xmi
+2025-04-08 23:01:02.041072 - Received DAND.MASSCHG.SKELS from SKELS.xmi 
+2025-04-08 23:01:02.042218 - Found MASSBAT1.rexx (text/plain) in DAND.MASSCHG.SKELS, moved to SKELS/MASSBAT1
+2025-04-08 23:01:02.042855 - Found MASSKEL.txt (text/plain) in DAND.MASSCHG.SKELS, moved to SKELS/MASSKEL
